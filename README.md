@@ -1,2 +1,2 @@
 # Hello-World
-Idéias verdes dormem furiosamente neste repo
+Ideias verdes dormem furiosamente neste repo
